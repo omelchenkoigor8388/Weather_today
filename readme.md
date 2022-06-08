@@ -39,9 +39,9 @@ in a given city.
    on the site[https://openweathermap.org/](https://openweathermap.org/).
    Then generate your unique API key.
 
-   ![photo_2022-06-08_13-33-38](https://user-images.githubusercontent.com/106494942/172618724-62d48d9a-9915-46c8-b8e9-fbc186f8b358.jpg)
+   <img height="450" src="https://user-images.githubusercontent.com/106494942/172618724-62d48d9a-9915-46c8-b8e9-fbc186f8b358.jpg" width="250"/>
+   <img height="450" src="https://user-images.githubusercontent.com/106494942/172618772-e04c1d85-eab5-45e9-81be-0d144bfc99da.jpg" width="250"/>
 
-   ![photo_2022-06-08_13-33-41](https://user-images.githubusercontent.com/106494942/172618772-e04c1d85-eab5-45e9-81be-0d144bfc99da.jpg)
 
 3. The API key must be inserted into the **Weather.py** file
 ```
