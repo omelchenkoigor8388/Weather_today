@@ -26,7 +26,7 @@ information from the site [https://openweathermap.org/](https://openweathermap.o
 Then it will display the current information about the weather 
 in a given city.
 
-<img height="550" src="[../../photo_2022-06-08_12-59-02.jpg](https://user-images.githubusercontent.com/106494942/172617976-273eb9f2-7a5d-4e74-a473-b9fcee33476c.jpg)" width="550"/>
+<img height="250" src="![photo_2022-06-08_12-59-02](https://user-images.githubusercontent.com/106494942/172617976-273eb9f2-7a5d-4e74-a473-b9fcee33476c.jpg)" width="250"/>
 
 ![photo_2022-06-08_12-59-02](https://user-images.githubusercontent.com/106494942/172617976-273eb9f2-7a5d-4e74-a473-b9fcee33476c.jpg)
 
