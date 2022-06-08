@@ -27,12 +27,8 @@ Then it will display the current information about the weather
 in a given city.
 
 <img height="250" src="https://user-images.githubusercontent.com/106494942/172617976-273eb9f2-7a5d-4e74-a473-b9fcee33476c.jpg" width="250"/>
-
-
-
-![photo_2022-06-08_12-59-11](https://user-images.githubusercontent.com/106494942/172618598-9a44d419-3b66-4cb4-b905-0ed56df1035a.jpg)
-
-![photo_2022-06-08_12-57-42](https://user-images.githubusercontent.com/106494942/172618667-4306bb0c-bf90-47c5-ad71-28e243928b50.jpg)
+<img height="250" src="https://user-images.githubusercontent.com/106494942/172618598-9a44d419-3b66-4cb4-b905-0ed56df1035a.jpg" width="250"/>
+<img height="250" src="https://user-images.githubusercontent.com/106494942/172618667-4306bb0c-bf90-47c5-ad71-28e243928b50.jpg" width="250"/>
 
 ### How to run the program?
 
