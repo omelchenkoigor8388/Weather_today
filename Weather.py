@@ -5,7 +5,7 @@ from pyowm.utils import config
 from pyowm.utils.config import get_default_config
 
 class Weather(QtWidgets.QMainWindow, Weather_form.Ui_MainWindow):
-    config_dict = get_default_config()  # Инициализация get_default_config()
+    config_dict = get_default_config()  
     config_dict['language'] = 'ua'
 
     def __init__(self):
